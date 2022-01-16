@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.header{
+  text-align: center;
+  margin-top: 20px;
+}
+.formDiv{
+  text-align: center;
+  margin-top: 30px;
+}
+.list{
+  text-align: center;
+  margin-top: 50px;
+}
